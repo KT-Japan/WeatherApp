@@ -1,0 +1,20 @@
+.container {
+    padding: 40px;
+  }
+  .content {
+    display: block;
+    margin: 0px auto;
+    padding: 10px 5px 10px 5px;
+    border: 1px solid #00000057;
+    border-radius: 4px;
+  }
+  h1,
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  .row {
+    text-align: center;
+  }
